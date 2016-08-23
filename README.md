@@ -1,1 +1,2 @@
 # Php-SQLite3-CRUD
+Simple single file CRUD implementation for PHP and SQLite3. Although this implemention is in a single file, it contains multiple Classes which can be placed in separate files with thier own individual class names. I just placed placed them in one file on my own stuborness! Enjoy! This implementation contains basic features for prototyping and testing purposes, not intended to be added for production releases. The code contain four sections: Controller, View, Data Access and Helpers. Not much comments were added since the codes should be straight forward.
